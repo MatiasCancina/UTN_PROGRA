@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\canci\\Desktop\\UTN PROGRA\\Cuatri 2\\Ejs .NET\\Clase 1\\Clase 1.csproj",
+      "projectUniqueName": "C:\\Users\\canci\\Desktop\\UTN_PROGRA\\Cuatri 2\\Ejs .NET\\Clase 1\\Clase 1.csproj",
       "projectName": "Clase 1",
-      "projectPath": "C:\\Users\\canci\\Desktop\\UTN PROGRA\\Cuatri 2\\Ejs .NET\\Clase 1\\Clase 1.csproj",
+      "projectPath": "C:\\Users\\canci\\Desktop\\UTN_PROGRA\\Cuatri 2\\Ejs .NET\\Clase 1\\Clase 1.csproj",
       "packagesPath": "C:\\Users\\canci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\canci\\Desktop\\UTN PROGRA\\Cuatri 2\\Ejs .NET\\Clase 1\\obj\\",
+      "outputPath": "C:\\Users\\canci\\Desktop\\UTN_PROGRA\\Cuatri 2\\Ejs .NET\\Clase 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\canci\\AppData\\Roaming\\NuGet\\NuGet.Config"

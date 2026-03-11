@@ -12,3 +12,18 @@ C:\Users\canci\Desktop\UTN PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\re
 C:\Users\canci\Desktop\UTN PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\Clase 1.pdb
 C:\Users\canci\Desktop\UTN PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\Clase 1.genruntimeconfig.cache
 C:\Users\canci\Desktop\UTN PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\ref\Clase 1.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\bin\Debug\net10.0\Clase 1.exe
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\bin\Debug\net10.0\Clase 1.deps.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\bin\Debug\net10.0\Clase 1.runtimeconfig.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\bin\Debug\net10.0\Clase 1.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\bin\Debug\net10.0\Clase 1.pdb
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\Clase 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\Clase 1.AssemblyInfoInputs.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\Clase 1.AssemblyInfo.cs
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\Clase 1.csproj.CoreCompileInputs.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\Clase 1.sourcelink.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\Clase 1.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\refint\Clase 1.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\Clase 1.pdb
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\Clase 1.genruntimeconfig.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 1\obj\Debug\net10.0\ref\Clase 1.dll
