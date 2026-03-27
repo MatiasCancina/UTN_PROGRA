@@ -1,0 +1,15 @@
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\obj\Debug\net10.0\Clase 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\obj\Debug\net10.0\Clase 4.AssemblyInfoInputs.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\obj\Debug\net10.0\Clase 4.AssemblyInfo.cs
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\obj\Debug\net10.0\Clase 4.csproj.CoreCompileInputs.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\obj\Debug\net10.0\Clase 4.sourcelink.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\bin\Debug\net10.0\Clase 4.exe
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\bin\Debug\net10.0\Clase 4.deps.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\bin\Debug\net10.0\Clase 4.runtimeconfig.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\bin\Debug\net10.0\Clase 4.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\bin\Debug\net10.0\Clase 4.pdb
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\obj\Debug\net10.0\Clase 4.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\obj\Debug\net10.0\refint\Clase 4.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\obj\Debug\net10.0\Clase 4.pdb
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\obj\Debug\net10.0\Clase 4.genruntimeconfig.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Clase 4\obj\Debug\net10.0\ref\Clase 4.dll
