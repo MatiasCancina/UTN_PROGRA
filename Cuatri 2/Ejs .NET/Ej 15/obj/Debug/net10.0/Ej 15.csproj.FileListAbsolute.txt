@@ -1,0 +1,15 @@
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\bin\Debug\net10.0\Ej 15.exe
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\bin\Debug\net10.0\Ej 15.deps.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\bin\Debug\net10.0\Ej 15.runtimeconfig.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\bin\Debug\net10.0\Ej 15.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\bin\Debug\net10.0\Ej 15.pdb
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\obj\Debug\net10.0\Ej 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\obj\Debug\net10.0\Ej 15.AssemblyInfoInputs.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\obj\Debug\net10.0\Ej 15.AssemblyInfo.cs
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\obj\Debug\net10.0\Ej 15.csproj.CoreCompileInputs.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\obj\Debug\net10.0\Ej 15.sourcelink.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\obj\Debug\net10.0\Ej 15.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\obj\Debug\net10.0\refint\Ej 15.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\obj\Debug\net10.0\Ej 15.pdb
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\obj\Debug\net10.0\Ej 15.genruntimeconfig.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej 15\obj\Debug\net10.0\ref\Ej 15.dll
