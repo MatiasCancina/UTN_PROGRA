@@ -1,32 +1,85 @@
-﻿BonoPresentismo bonoA = new BonoPresentismoA();
-BonoPresentismo bonoB = new BonoPresentismoB();
-BonoResultado bonoResultado = new BonoResultado();
+﻿HashSet<Empleado> unicos = new HashSet<Empleado>();
 
-Empleado empleado = new Gerente();
-empleado.Inasistencias = 1;
-empleado.ObjetivoCumplido = 100;
-empleado.BonoPresentismo = bonoA;
-empleado.BonoResultado = bonoResultado;
+Gerente objGerente = new Gerente();
+objGerente.Legajo = 1234;
+unicos.Add(objGerente);
 
-Administrativo admin = new Administrativo();
-admin.Inasistencias = 0;
-admin.ObjetivoCumplido = 50;
-admin.BonoPresentismo = bonoA;
-admin.BonoResultado = bonoResultado;
+Gerente nuevoGerente = new Gerente();
+nuevoGerente.Legajo = 1234;
+unicos.Add(nuevoGerente);
+unicos.Add(new Administrativo());
 
-Console.WriteLine($"El empleado tiene un sueldo de {empleado.CalcularSueldo()}");
+Console.WriteLine(unicos.Contains(objGerente));
 
-empleado.BonoPresentismo = bonoB;
-Console.WriteLine($"El empleado tiene un sueldo de {empleado.CalcularSueldo()}");
+unicos.Remove(objGerente);
 
-List<Empleado> empleados = new List<Empleado>();
-empleados.Add(admin);
-empleados.Add(empleado);
-
-foreach (Empleado item in empleados)
+foreach (Empleado item in unicos)
 {
-    Console.WriteLine($"El sueldo del empleado es: {item.CalcularSueldo()} ({item.ToString()})");
+    Console.WriteLine(item.ToString());
 }
+
+// BonoPresentismo bonoA = new BonoPresentismoA();
+// BonoPresentismo bonoB = new BonoPresentismoB();
+// BonoResultado bonoResultado = new BonoResultado();
+
+// Empleado empleado = new Gerente();
+// empleado.Inasistencias = 1;
+// empleado.ObjetivoCumplido = 100;
+// empleado.BonoPresentismo = bonoA;
+// empleado.BonoResultado = bonoResultado;
+
+// Administrativo admin = new Administrativo();
+// admin.Inasistencias = 0;
+// admin.ObjetivoCumplido = 50;
+// admin.BonoPresentismo = bonoA;
+// admin.BonoResultado = bonoResultado;
+
+Dictionary<int, Empleado> dicEmpleados = new Dictionary<int, Empleado>();
+// dicEmpleados.Add(121212, empleado);
+// dicEmpleados.Add(101010, admin);
+
+// if (dicEmpleados.ContainsKey(121212))
+// {
+//     Console.WriteLine($"El empleado con legajo 121212 tiene un sueldo de {dicEmpleados[121212].CalcularSueldo()}");
+// }
+// else
+// 
+{//     Console.WriteLine($"No se encontro el empleado con legajo 121212"); // 
+}
+// 
+foreach (KeyValuePair<int, Empleado> item in dicEmpleados)// 
+{// 
+    Console.WriteLine($"El empleado con legajo {item.Key} tiene un sueldo de {item.Value.CalcularSueldo()}");// 
+}
+
+// Console.WriteLine($"El empleado tiene un sueldo de {empleado.CalcularSueldo()}");
+
+// empleado.BonoPresentismo = bonoB;
+// Console.WriteLine($"El empleado tiene un sueldo de {empleado.CalcularSueldo()}");
+
+// Empresa objEmpresa = new Empresa();
+// objEmpresa.Empleados = new List<Empleado>();
+// objEmpresa.Empleados.Add(empleado);
+// objEmpresa.Empleados.Add(admin);
+
+// objEmpresa.InformarSueldo();
+
+// Console.WriteLine("Elimino el empleado con indice 1");
+// objEmpresa.Empleados.RemoveAt(1);
+// if (objEmpresa.Empleados.Contains(admin))
+//     Console.WriteLine("El empleado sigue en la empresa");
+// else
+//     Console.WriteLine("El empleado ya no esta en la empresa");
+
+// objEmpresa.Empleados.Remove(admin);
+
+// Empleado objEmpleado = objEmpresa.Empleados.ElementAt(0);
+// Console.WriteLine("Calculando el sueldo... " + objEmpleado.CalcularSueldo());
+
+// if (objEmpresa.Empleados.Contains(admin))
+//     Console.WriteLine("El empleado sigue en la empresa");
+// else
+//     Console.WriteLine("El empleado ya no esta en la empresa");
 
 public abstract class Empleado
 {
@@ -40,6 +93,29 @@ public abstract class Empleado
     public float CalcularSueldo()
     {
         return this.CalcularNeto() + this.BonoPresentismo.Calcular(this.Inasistencias) + this.BonoResultado.Calcular(this.ObjetivoCumplido, this.CalcularNeto());
+    }
+}
+
+public class Empresa
+{
+    private List<Empleado> _empleados;
+    public List<Empleado> Empleados
+    {
+        get { return _empleados; }
+        set { _empleados = value; }
+    }
+
+    public Empresa()
+    {
+        _empleados = new List<Empleado>();
+    }
+
+    public void InformarSueldo()
+    {
+        foreach (Empleado item in Empleados)
+        {
+            Console.WriteLine($"El sueldo del empleado es: {item.CalcularSueldo()} ({item.ToString()})");
+        }
     }
 }
 
@@ -59,6 +135,18 @@ public class Gerente : Empleado, Imprimible
     {
         return $"Soy un Gerente";
     }
+
+
+    public int Legajo { get; set; }
+
+    public override bool Equals(object? obj)
+    {
+        if (((Gerente)obj).Legajo is this.Legajo)
+            return true;
+
+        return false;
+    }
+
 }
 
 public class Administrativo : Empleado
@@ -68,9 +156,9 @@ public class Administrativo : Empleado
         return 500000;
     }
 
-    public string toSring()
+    public override string ToString()
     {
-        return $"Soy un Administrativo";
+        return "Soy un Administrativo";
     }
 }
 
