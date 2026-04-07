@@ -1,0 +1,15 @@
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\obj\Debug\net10.0\Ej Trenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\obj\Debug\net10.0\Ej Trenes.AssemblyInfoInputs.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\obj\Debug\net10.0\Ej Trenes.AssemblyInfo.cs
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\obj\Debug\net10.0\Ej Trenes.csproj.CoreCompileInputs.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\obj\Debug\net10.0\Ej Trenes.sourcelink.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\bin\Debug\net10.0\Ej Trenes.exe
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\bin\Debug\net10.0\Ej Trenes.deps.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\bin\Debug\net10.0\Ej Trenes.runtimeconfig.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\bin\Debug\net10.0\Ej Trenes.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\bin\Debug\net10.0\Ej Trenes.pdb
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\obj\Debug\net10.0\Ej Trenes.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\obj\Debug\net10.0\refint\Ej Trenes.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\obj\Debug\net10.0\Ej Trenes.pdb
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\obj\Debug\net10.0\Ej Trenes.genruntimeconfig.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Ej Trenes\obj\Debug\net10.0\ref\Ej Trenes.dll

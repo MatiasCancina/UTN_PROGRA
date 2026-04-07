@@ -1,6 +1,6 @@
 namespace Dominio
 {
-    abstract class Vagon
+    public abstract class Vagon
     {
         private double _ancho;
         public double Ancho
@@ -23,10 +23,6 @@ namespace Dominio
             set { _anchoUtil = value; }
         }
 
-
-        public abstract double PesoMaximo()
-        {
-            return this.CargaMaxima + 160;
-        }
+        public abstract double PesoMaximo();
     }
 }
