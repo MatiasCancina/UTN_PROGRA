@@ -1,3 +1,5 @@
+using Exceptions;
+
 namespace Dominio
 {
     public abstract class Persona
@@ -9,11 +11,21 @@ namespace Dominio
 
         public string GetNombre()
         {
+            if (string.IsNullOrEmpty(this.nombre))
+            {
+                throw new NombreInvalidoException();
+            }
+
             return this.nombre;
         }
 
         public string GetApellido()
         {
+            if (string.IsNullOrEmpty(this.apellido))
+            {
+                throw new ApellidoInvalidoException();
+            }
+
             return this.apellido;
 
         }
@@ -25,9 +37,9 @@ namespace Dominio
 
         public Persona()
         {
-            this.nombre = "Sin nombre";
-            this.apellido = "Sin apellido";
-            this.email = "Sin email";
+            // this.nombre = "Sin nombre";
+            // this.apellido = "Sin apellido";
+            // this.email = "Sin email";
         }
 
         public Persona(string nombre, string apellido, string email)
