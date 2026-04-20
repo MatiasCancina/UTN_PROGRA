@@ -1,0 +1,15 @@
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\bin\Debug\net10.0\Micros.exe
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\bin\Debug\net10.0\Micros.deps.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\bin\Debug\net10.0\Micros.runtimeconfig.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\bin\Debug\net10.0\Micros.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\bin\Debug\net10.0\Micros.pdb
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\obj\Debug\net10.0\Micros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\obj\Debug\net10.0\Micros.AssemblyInfoInputs.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\obj\Debug\net10.0\Micros.AssemblyInfo.cs
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\obj\Debug\net10.0\Micros.csproj.CoreCompileInputs.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\obj\Debug\net10.0\Micros.sourcelink.json
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\obj\Debug\net10.0\Micros.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\obj\Debug\net10.0\refint\Micros.dll
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\obj\Debug\net10.0\Micros.pdb
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\obj\Debug\net10.0\Micros.genruntimeconfig.cache
+C:\Users\canci\Desktop\UTN_PROGRA\Cuatri 2\Ejs .NET\Micros\obj\Debug\net10.0\ref\Micros.dll
