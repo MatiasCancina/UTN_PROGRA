@@ -5,4 +5,8 @@
     <TargetFramework>net10.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="micros.Tests/**" />
+  </ItemGroup>
+
 </Project>
