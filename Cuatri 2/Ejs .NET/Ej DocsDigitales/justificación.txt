@@ -1,0 +1,15 @@
+Parcial
+
+Cumplimos con SOLID porque...
+S: Cada clase tiene un único propósito..
+O: Cumplimos con OCP porque si necesitamos extender una nueva subclase que sepa como procesar documentos, se puede agregar tranquilamente extendiendo de la clase ManejadorDocumentoStrategy
+L
+I
+D:
+
+
+
+
+Encontramos que para este problema calza bien Strategy porque porque se puede cambiar el algoritmo de utilizado (en este caso de encriptación) en teimpo de ejecución.
+
+Cumplimos con la OO porque nuestros atributos son privados, para acceder a los mismos se utilzan propiedades.
